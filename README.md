@@ -27,3 +27,14 @@ other related information.
 2. The Registration page will get the following details from the participants. Participant Name,
 Branch, college name, communication Address, E-mail id, mobile no, age, state, Gender,
 Events (Paper Presentation, Quiz, etc),etc.
+
+### LABSHEEET 04
+#### PROBLEM STATMENT
+* Problem Statement: Eureka Info Solutions has acquired online shopping cart project from a leading bookseller in Bangalore. They want to sell engineering textbooks online, so you are the team leader of the project and divide the modules based on user requirement, given requirement/module is designed by developers, and finally you integrate all the modules into one static website using HTML.
+
+### LABSHEET 05
+#### PROBLEM STATMENT
+* Problem Statement : Design a document using XHTML and CSS to create an Admission registration form. The web page should be having following things:
+* 1. The first page displays instructions with a register button and applying external CSS
+* 2. 2. Second page to get essential student data and apply inline, internal CSS.
+
