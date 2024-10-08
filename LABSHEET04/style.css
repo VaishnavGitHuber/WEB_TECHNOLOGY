@@ -1,6 +1,5 @@
 body {
     margin: 0px;
-    background-color: orange;
 }
 header {  
     background-color: lightgreen;
@@ -54,4 +53,15 @@ p {
 }
 .image-1 {
     background-color: white;
+}
+.left-container {
+    width: 20%;
+    margin: 20px;
+    font-size: 25px;
+    float: left;
+}
+.right-container {
+    width: 70%;
+    margin: 20px;
+    float: left;
 }
